@@ -16,7 +16,7 @@ import java.util.Scanner;
  * 	2. optimal weighted sum of completion times
  * 	3. simple Prim for MST
  * 	
- * @author purlin
+ * @author purlin 
  *
  */
 public class PA1 {
