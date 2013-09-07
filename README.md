@@ -1,9 +1,9 @@
-Coursera: Algorithms: Design and Analysis
+Coursera
 ====================================
 
-### Programming Assignments (Algorithms: Design and Analysis, Part I and II by Tim Roughgarden)
+Programming Assignments (Algorithms: Design and Analysis, Part I and II by Tim Roughgarden)
 
-### Part II:
+Part II:
 
 PA-1: Greedy Algorithms
 ### 
